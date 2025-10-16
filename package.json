@@ -64,7 +64,7 @@
     },
     "deployment": {
       "platform": "railway",
-      "frontend_url": "https://SEU_NOVO_URL_VERCEL_AQUI",
+      "frontend_url": "https://quizfronten.vercel.app",
       "backend_url": "https://quizbacken-production.up.railway.app",
       "result_url": "https://www.suellenseragi.com.br/resultado"
     }
